@@ -7,10 +7,10 @@ A tabela abaixo descreve cada classe criada
 
 | Classe    | Descrição |
 | ------    | ------    |
-| main      | Classe principal de execução do código |
+| main      | Classe para execução código |
 | Pessoa    | Classe Pai |
-| Aluno     | Classe filha, herda nome e sobrenome, possui Matricula |
-| Professor | Classe filha, herda nome e sobrenome, possui Codigo|
+| Aluno     | Classe filha, herda nome e sobrenome, possui atibuto Matricula |
+| Professor | Classe filha, herda nome e sobrenome, possui atributo Codigo|
 
 ### Classe Pessoa:
 - ### Atributos
