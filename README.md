@@ -53,7 +53,14 @@ A classe [Professor] é uma das classes filhas que herdam os atributos de [Pesso
 | Nome                                    | Lenon Tadeu Lopes Leal|
 | Matrícula                               | 21605424 |
 | Curso                                   | Sistemas de informação |
-| Principais responsabilidades no projeto | Projeto em sua totalidade|
+| Principais responsabilidades no projeto |Classes pessoa, aluno e professor,vídeo|
 
+
+|                                         | Integrante|
+| ------                                  | ------    |
+| Nome                                    | Lyvisson da Silva Marinho|
+| Matrícula                               | 21605424 |
+| Curso                                   | Sistemas de informação |
+| Principais responsabilidades no projeto | Diagrama UML e Classe main |
 
 
