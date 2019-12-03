@@ -47,7 +47,7 @@ A classe [Aluno] é uma das classes filhas que herdam os atributos de [Pessoa], 
 A classe [Professor] é uma das classes filhas que herdam os atributos de [Pessoa], possui [Codigo]
 
 
-### Equipe
+### Grupo
 |                                         | Integrante|
 | ------                                  | ------    |
 | Nome                                    | Lenon Tadeu Lopes Leal|
@@ -59,7 +59,7 @@ A classe [Professor] é uma das classes filhas que herdam os atributos de [Pesso
 |                                         | Integrante|
 | ------                                  | ------    |
 | Nome                                    | Lyvisson da Silva Marinho|
-| Matrícula                               | 21605424 |
+| Matrícula                               | 06-201220558|
 | Curso                                   | Sistemas de informação |
 | Principais responsabilidades no projeto | Diagrama UML e Classe main |
 
